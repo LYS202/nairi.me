@@ -2,3 +2,6 @@ baseURL: https://nairi.me/
 languageCode: fr-fr
 title: Nairi
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
