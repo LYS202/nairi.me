@@ -4,8 +4,6 @@ draft: false
 title: 'Ces cordes tranchées, dernière bouffée'
 ---
 
-### Ces cordes tranchées, dernière dernière bouffée
-
 Ces cordes qui me font souffrir
 
 Jusqu'à ma dernière bouffée 

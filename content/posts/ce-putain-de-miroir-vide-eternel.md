@@ -4,8 +4,6 @@ draft: false
 title: 'Ce putain de miroir, vide éternel'
 ---
 
-### Ce putain de miroir, vide éternel
-
 Dans ce vide éternel seule je suis
 
 Dans ce vide éternel seule je m'enfuis
