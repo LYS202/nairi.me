@@ -1,10 +1,9 @@
-
 ---
-date: 2025-08-11
+date: '2025-08-14T12:56:34+02:00'
 draft: false
-title: Ces cordes tranchées, dernière dernière bouffée
-
+title: 'Ces cordes tranchées, dernière bouffée'
 ---
+
 ### Ces cordes tranchées, dernière dernière bouffée
 
 Ces cordes qui me font souffrir

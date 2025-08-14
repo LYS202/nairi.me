@@ -1,9 +1,7 @@
-
 ---
-date: 2025-08-09
+date: '2025-08-09T12:53:40+02:00'
 draft: false
-title: Ce putain de miroir, vide éternel
-
+title: 'Ce putain de miroir, vide éternel'
 ---
 
 ### Ce putain de miroir, vide éternel
