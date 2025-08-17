@@ -5,3 +5,20 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: "email"
+      url: "mailto:nairi-d@queenangel.studio"
+    - name: "instagram"
+      url: "https://www.instagram.com/nairi.dev"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/nairi.me"
+    - name: "kofi"
+      url: "https://ko-fi.com/nairi20"
+
+  ShowShareButtons: true
