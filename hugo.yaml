@@ -8,8 +8,8 @@ caches:
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Nairi
+    Content: J'écris des textes
 
   socialIcons: # optional
     - name: "email"
