@@ -15,7 +15,7 @@ params:
     - name: "email"
       url: "mailto:nairi-d@queenangel.studio"
     - name: "instagram"
-      url: "https://www.instagram.com/nairi.dev"
+      url: "https://www.instagram.com/nairi.me_"
     - name: "bluesky"
       url: "https://bsky.app/profile/nairi.me"
     - name: "kofi"
