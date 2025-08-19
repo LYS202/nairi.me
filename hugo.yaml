@@ -6,21 +6,24 @@ caches:
   images:
     dir: :cacheDir/images
 
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 Languages:
   en:
     weight: 2
     languageName: English
+    homeInfoParams:
+      Title: Nairi
+      Content: I write some texts
   fr:
+    homeInfoParams:
+      Title: Nairi
+      Content: J'écris des textes
     weight: 1
     languageName: Français
 
 
 params:
-  homeInfoParams:
-    Title: Nairi
-    Content: J'écris des textes
-
   socialIcons: # optional
     - name: "email"
       url: "mailto:nairi-d@queenangel.studio"
