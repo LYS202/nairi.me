@@ -12,19 +12,20 @@ Languages:
   en:
     weight: 2
     languageName: English
+    params:
+      homeInfoParams:
+        Title: Nairi
+        Content: I write some texts
     
   fr:
     weight: 1
     languageName: Français
-
+    params:
+      homeInfoParams:
+        Title: Nairi
+        Content: J'écris des textes
 
 params:
-  homeInfoParams:
-    fr.Title: Nairi
-    fr.Content: J'écris des textes
-    en.Title: Nairi
-    en.Content: I write some texts
-
   socialIcons: # optional
     - name: "email"
       url: "mailto:nairi-d@queenangel.studio"
