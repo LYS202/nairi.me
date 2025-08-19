@@ -28,7 +28,7 @@ Languages:
 params:
   socialIcons: # optional
     - name: "email"
-      url: "mailto:nairi-d@queenangel.studio"
+      url: "mailto:nairi.d@queenangel.studio"
     - name: "instagram"
       url: "https://www.instagram.com/nairi.me_"
     - name: "bluesky"
