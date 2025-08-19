@@ -1,6 +1,6 @@
 ---
 date: '2025-08-09T12:53:44+02:00'
-draft: true
+draft: false
 title: 'This fuckin mirror, eternal hollow'
 ---
 

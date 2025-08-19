@@ -6,17 +6,9 @@ caches:
   images:
     dir: :cacheDir/images
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
 Languages:
-  en:
-    weight: 2
-    languageName: English
-    params:
-      homeInfoParams:
-        Title: Nairi
-        Content: I write some texts
-    
   fr:
     weight: 1
     languageName: Français
@@ -24,6 +16,14 @@ Languages:
       homeInfoParams:
         Title: Nairi
         Content: J'écris des textes
+
+  en:
+    weight: 2
+    languageName: English
+    params:
+      homeInfoParams:
+        Title: Nairi
+        Content: I write some texts
 
 params:
   socialIcons: # optional
