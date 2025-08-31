@@ -1,6 +1,6 @@
 ---
 date: '2025-08-31T22:07:22+02:00'
-draft: true
+draft: false
 title: 'Ce putain de miroir, vide éternel'
 ---
 Dans ce vide éternel seule je suis
