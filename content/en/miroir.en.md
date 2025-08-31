@@ -3,6 +3,7 @@ date: '2025-08-31T22:07:22+02:00'
 draft: false
 title: 'This fuckin mirror, eternal hollow'
 ---
+
 In this eternal hollow alone I am
 
 In this eternal hollow alone I flee
@@ -13,7 +14,7 @@ In this eternal hollow alone I see
 
 In this eternal hollow alone I drink
 
-In this eternal hollow alone my nightmares I bury
+In this eternal hollow alone my nightmaress I bury
 
 In this eternal hollow for only law
 
