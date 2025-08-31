@@ -31,6 +31,8 @@ params:
       url: "mailto:nairi.d@queenangel.studio"
     - name: "instagram"
       url: "https://www.instagram.com/nairi_me"
+    - name: "tiktok"
+      url: "https://tiktok.com/@nairi_me"
     - name: "bluesky"
       url: "https://bsky.app/profile/nairi.me"
     - name: "kofi"
